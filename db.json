@@ -1,0 +1,120 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": "2"
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": "3"
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": "4"
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": "5"
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": "6"
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": "7"
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": "8"
+    }
+  ],
+  "products": [
+    {
+      "name": "Blue floral dress",
+      "price": "2500",
+      "category": "Modern dress",
+      "color": "blue",
+      "description": "Its a short floral summer dress",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/4/5428491CD2022042591644MD-Blue_1.jpg?rnd=20200526195200&tr=w-512",
+      "id": "9d22"
+    },
+    {
+      "name": "White Floral Dress",
+      "price": "1100",
+      "category": "Summer Dress",
+      "color": "White",
+      "description": "Acute summer dress",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/9/c953858CD20230222256851TEBlue_1.jpg?rnd=20200526195200&tr=w-512",
+      "id": "665d"
+    },
+    {
+      "name": "Red floral dress",
+      "price": "1500",
+      "category": "Summer dress",
+      "color": "red",
+      "description": "its sexy short red floral dress",
+      "image": "https://www.wyshlist.io/cdn/shop/files/xs-196-red-aahwan-original-imaghu92fc6zzah8.webp?v=1693833301&width=1100",
+      "id": "216d"
+    },
+    {
+      "name": "white floral long dress",
+      "price": "1700",
+      "category": "summer dress",
+      "color": "white",
+      "description": "its a sexy white printed dress",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/4/543e6b8CD2022031670421LD-Multicolor_1.jpg?rnd=20200526195200&tr=w-512",
+      "id": "9df9"
+    },
+    {
+      "name": "Party Dress",
+      "price": "3000",
+      "category": "Modren dress",
+      "color": "Blue",
+      "description": "its a party wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/a/1ad5313NF-CD2021112543830LD-Blue_1.jpg?rnd=20200526195200&tr=w-512",
+      "id": "cda3"
+    }
+  ],
+  "users": [
+    {
+      "id": "c22d",
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "123abc"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "b246",
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 2600,
+      "userId": "c22d"
+    },
+    {
+      "id": "d3ac",
+      "email": "saviwadje08@gmail.com",
+      "address": "Famous Chowk, Menkudale Heights, Flat No A-17, Above Krishna hotel",
+      "contact": "07841924390",
+      "totalPrice": 4800,
+      "userId": "c22d"
+    }
+  ]
+}
